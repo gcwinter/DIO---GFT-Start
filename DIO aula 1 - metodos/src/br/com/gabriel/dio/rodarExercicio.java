@@ -22,7 +22,7 @@ public class rodarExercicio {
         emprestimo.caulcular(10, 1000);
         emprestimo.caulcular(24, 1000);
         emprestimo.caulcular(36, 1000);
-        emprestimo.caulcular(48, 1000);
+
 
     }
 }
